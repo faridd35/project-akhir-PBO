@@ -1,6 +1,6 @@
 # 🪢 Sistem Gamifikasi Tarik Tambang — Evaluasi Advanced English Grammar \& Vocabulary
 
-Aplikasi berbasis **Java CLI** yang mensimulasikan permainan **tarik tambang** sebagai media evaluasi kuis Bahasa Inggris Fase F (Kelas XI–XII). Dibuat sebagai tugas kelompok mata kuliah **Pemrograman Berorientasi Objek**, Universitas Negeri Jakarta.
+Aplikasi berbasis **Java CLI** yang mensimulasikan permainan **tarik tambang** sebagai media evaluasi kuis Bahasa Inggris Fase F (Kelas XI–XII).
 
 \---
 
@@ -57,3 +57,6 @@ Setiap jawaban yang benar akan menggeser tali ke sisi Siswa, sedangkan jawaban s
    java -cp out Main
    ```
 
+---
+*Proyek ini disusun untuk Kebutuhan Tugas Kelompok Mata Kuliah **Pemrograman Berorientasi Objek** - 
+Pendidikan Teknik Informatika dan Komputer, Universitas Negeri Jakarta*
