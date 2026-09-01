@@ -41,20 +41,20 @@ Setiap jawaban yang benar akan menggeser tali ke sisi Siswa, sedangkan jawaban s
 1. **Clone repository ini**
 
 ```bash
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
+   git clone https://github.com/faridd35/project-akhir-PBO.git
+   cd project-akhir-PBO
    ```
 
 2. **Compile semua file Java**
 
 ```bash
-   javac -d out src/\\\*\\\*/\\\*.java
+    javac -d out $(Get-ChildItem -Recurse -Filter *.java | %{$_.FullName})
    ```
 
 3. **Jalankan aplikasi**
 
 ```bash
-   java -cp out Main
+   java -cp out tugofwar.Main
    ```
 
 ---
