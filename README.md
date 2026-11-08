@@ -2,13 +2,13 @@
 
 Aplikasi berbasis **Java CLI** yang mensimulasikan permainan **tarik tambang** sebagai media evaluasi kuis Bahasa Inggris Fase F (Kelas XI–XII).
 
-\---
+---
 
 ## 📋 Deskripsi
 
 Setiap jawaban yang benar akan menggeser tali ke sisi Siswa, sedangkan jawaban salah menggeser tali ke sisi CPU. Siswa menang jika berhasil menarik tali ke sisi mereka setelah menyelesaikan 10 soal pilihan ganda bertipe **Grammar** atau **Vocabulary**.
 
-\---
+---
 
 ## ✨ Fitur
 
@@ -27,7 +27,7 @@ Setiap jawaban yang benar akan menggeser tali ke sisi Siswa, sedangkan jawaban s
 * Lihat hasil akhir: skor, jumlah benar/salah, dan status Menang / Kalah / Seri
 * Lihat Leaderboard
 
-\---
+---
 
 ## ⚙️ Cara Menjalankan
 
